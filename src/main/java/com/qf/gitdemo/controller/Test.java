@@ -16,6 +16,7 @@ public class Test {
     @ResponseBody
     public String add(){
         System.out.println("git");
+        System.out.println("gitup");
 
         return  "ok";
     }
