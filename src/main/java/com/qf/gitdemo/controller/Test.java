@@ -22,6 +22,7 @@ public class Test {
         System.out.println("你丑你先说");
         System.out.println("行吧，你短听你的");
         System.out.print("buxiaode");
+        System.out.print("彭紫烟加了一条");
         return  "ok";
     }
 }
