@@ -17,7 +17,7 @@ public class Test {
     public String add(){
         System.out.println("git");
         System.out.println("gitup");
-
+        System.out.println("github，能不能好好玩了？");
         return  "ok";
     }
 }
