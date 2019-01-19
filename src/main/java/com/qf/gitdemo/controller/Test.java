@@ -20,6 +20,7 @@ public class Test {
         System.out.println("github，能不能好好玩了？");
         System.out.println("干你娘，听我的");
         System.out.println("行吧，你短听你的");
+        System.out.print("buxiaode");
         return  "ok";
     }
 }
