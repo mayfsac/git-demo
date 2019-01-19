@@ -18,6 +18,7 @@ public class Test {
         System.out.println("git");
         System.out.println("gitup");
         System.out.println("github，能不能好好玩了？");
+        System.out.println("干你娘，听我的");
         return  "ok";
     }
 }
